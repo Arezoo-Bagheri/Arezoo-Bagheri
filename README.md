@@ -2,7 +2,7 @@
  ### <h2 align="center"> Hi, I'm Arezoo 👋 </h2>
 
  ### About Me
- I'm a .Net Developer
+ A computer software engineering graduate and a .Net Developer
 <br/>
 <br/>
 <br/>
