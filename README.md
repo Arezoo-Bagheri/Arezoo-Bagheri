@@ -67,6 +67,7 @@
 
 - 👀 I'm interested in Programming.
 - 🌱 <b> I'm currently learning Microservice Architecture.</b>
+- 💞️ I’m looking to collaborate on .NET Project.
 - 💞️ I'm always looking for new challenges!
 - 💞️ <b> I’m looking for a new job as a .NET Developer.</b>
  
