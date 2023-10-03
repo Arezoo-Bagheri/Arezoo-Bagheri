@@ -25,7 +25,6 @@
   <span> Asp.Net Mvc </span> ,
   <span> Asp.Net Mvc Core </span> ,
   <span> Object Oriented Programming (OOP) </span> ,
- <br/>
   <span> Clean Code </span> ,
   <span> Design Patterns </span> ,
   <span> REST APIs </span> ,
