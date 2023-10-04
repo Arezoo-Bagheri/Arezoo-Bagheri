@@ -55,7 +55,7 @@
 </div>
 <br/>
 <div>
-  <strong><b> FrontEnd : </b></strong>
+  <strong><b> Front-End : </b></strong>
  <br/>
   <span>CSS</span> ,
   <span>HTML</span> ,
