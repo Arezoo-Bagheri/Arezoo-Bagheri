@@ -69,10 +69,8 @@
 - 🌱 <b> I'm currently learning Microservice Architecture.</b>
 - 💞️ I’m looking to collaborate on .NET Project.
 - 💞️ I'm always looking for new challenges!
-- 💞️ <b> I’m looking for a new job as a .NET Developer.</b>
+
  
-
-
 <!---
 Arezoo-Bagheri/Arezoo-Bagheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
