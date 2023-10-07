@@ -49,6 +49,7 @@
 <div>
   <strong><b> Software Architecture : </b></strong>
  <br/>
+ <span>Clean Architecture</span> ,
   <span>Onion Architecture</span> ,
   <span>Domain-Driven-Design</span> ,
   <span>CQRS</span>
