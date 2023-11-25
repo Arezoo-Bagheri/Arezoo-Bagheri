@@ -30,7 +30,8 @@
   <span> REST APIs </span> ,
   <span> Postman API </span> ,
  <br/>
-  <span> JSON Web Token (JWT) </span> 
+  <span> JSON Web Token (JWT) </span> ,
+  <span>  Unit-Testing </span>
 </div>
 <br/>
 <div>
@@ -67,7 +68,7 @@
 <br/>
 
 - 👀 I'm interested in Programming.
-- 🌱 <b> I'm currently learning Microservice Architecture.</b>
+- 🌱 <b> I'm currently learning Software Architecture.</b>
 - 💞️ I’m looking to collaborate on .NET Project.
 - 💞️ I'm always looking for new challenges!
 
