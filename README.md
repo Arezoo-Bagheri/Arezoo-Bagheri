@@ -31,7 +31,9 @@
   <span> Postman API </span> ,
  <br/>
   <span> JSON Web Token (JWT) </span> ,
-  <span>  Unit-Testing </span>
+  <span>  Unit-Testing </span> ,
+  <span>  Azure DevOps ,
+Continuous Integration and Continuous Delivery (CI/CD) </span>
 </div>
 <br/>
 <div>
