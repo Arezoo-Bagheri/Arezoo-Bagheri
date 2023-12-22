@@ -32,8 +32,7 @@
  <br/>
   <span> JSON Web Token (JWT) </span> ,
   <span>  Unit-Testing </span> ,
-  <span>  Azure DevOps ,
-Continuous Integration and Continuous Delivery (CI/CD) </span>
+  <span>  Azure DevOps CI/CD </span>
 </div>
 <br/>
 <div>
