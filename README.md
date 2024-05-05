@@ -2,7 +2,9 @@
  ### <h2 align="center"> Hi, I'm Arezoo 👋 </h2>
 
  ### About Me
- A computer software engineering graduate and a .Net Developer.
+ A computer software engineering graduate and a .Net Developer, With an eagerness to learn new concepts and a passion for reading, I'm always striving to improve my skills. With motivation and flexibility, I'm seeking opportunities that allow me to act as a better and more efficient developer. I believe that continuous learning and staying updated with new technologies are the keys to success in this field. I'm always ready to collaborate with individuals who share the same enthusiasm and motivation. 
+ <br/>
+I believe that every challenge I encounter is an opportunity for growth.
 <br/>
 <br/>
 <br/>
